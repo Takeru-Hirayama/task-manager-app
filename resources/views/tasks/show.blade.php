@@ -61,3 +61,4 @@
                 </form>
             @endcan
         </div>
+</x-app-layout>
